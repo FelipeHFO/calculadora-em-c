@@ -85,7 +85,7 @@ int main()
             break;
         }
         
-        printf("\nO resultado do dividendo entre %.2f e %.2f é: %.2f\n\n", primeiroValor, segundoValor, (primeiroValor + segundoValor));
+        printf("\nO resultado do dividendo entre %.2f e %.2f é: %.2f\n\n", primeiroValor, segundoValor, (primeiroValor / segundoValor));
         
         printf("0 - Continuar.\n");
         printf("5 - Sair.\n");
